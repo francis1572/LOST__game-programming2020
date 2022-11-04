@@ -1,0 +1,122 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/game_menu.unity
+    guid: 7882d16c89923445e8180c69ec9f774a
+  - enabled: 1
+    path: Assets/Scenes/prologue.unity
+    guid: c67a5f436a9a4459f893e6eaf0f3f7b4
+  - enabled: 1
+    path: Assets/Scenes/lobby_stage_1.unity
+    guid: 3758cd9cceb2a453b98602cca4676047
+  - enabled: 1
+    path: Assets/Scenes/lobby_stage_2.unity
+    guid: dc21addf37c2c40d2976e78fef0b67d8
+  - enabled: 1
+    path: Assets/Scenes/lobby_stage_3.unity
+    guid: c2c4be58dd1d64c088b21de66f9f0219
+  - enabled: 1
+    path: Assets/Scenes/lobby_stage_4.unity
+    guid: 21cac4385e1e541ec936c7fba221cdbd
+  - enabled: 1
+    path: Assets/Scenes/final_battle_v1.unity
+    guid: 89158731072ee43ee834ced11af4cccd
+  - enabled: 1
+    path: Assets/Scenes/ED1.unity
+    guid: d816e232ab6c940e2a3da69c6f4259ed
+  - enabled: 1
+    path: Assets/Scenes/ED2.unity
+    guid: afbd3a9c6fbac4718ade2767e4e8be15
+  - enabled: 1
+    path: Assets/Scenes/ED3.unity
+    guid: 68b40297b0c9642a09608601393d4d9f
+  - enabled: 1
+    path: Assets/Scenes/ED4.unity
+    guid: 9afed06518e914a778d001c582993155
+  - enabled: 1
+    path: Assets/Scenes/fungus_sandBox.unity
+    guid: 633c93306ad644b6083a99e916bc62db
+  - enabled: 1
+    path: Assets/Scenes/library.unity
+    guid: ab484bde9c03a471c90a17b7708b4a74
+  - enabled: 1
+    path: Assets/Scenes/lobby.unity
+    guid: a617152a33ba2481693e2c9a959bdd8e
+  - enabled: 1
+    path: Assets/Scenes/lobby_stage_2_old.unity
+    guid: af2e8aedd77254d6bb682deba8582d86
+  - enabled: 1
+    path: Assets/Scenes/tile0.unity
+    guid: d6886fd90c61540759b58a757616f3ed
+  - enabled: 1
+    path: Assets/Scenes/final_battle_v2.unity
+    guid: 33c60bc29a9a4454891873939a83175b
+  - enabled: 1
+    path: Assets/Scenes/final_battle_v3.unity
+    guid: ab5d2128076c245018d4819ae3a40437
+  - enabled: 1
+    path: Assets/Scenes/Boss_Before_Final_Battle.unity
+    guid: 4fe90304be0d1423ebf305afdd45d5d6
+  - enabled: 1
+    path: Assets/Scenes/history_book1.unity
+    guid: 88b7f433974d44450b8c26200dea54d7
+  - enabled: 1
+    path: Assets/Scenes/history_book2.unity
+    guid: 82618311e0124490fa9f7e2638904ac6
+  - enabled: 1
+    path: Assets/Scenes/prologue_for_Book1.unity
+    guid: 1435db21d35f642ecbf3b39b2128c47c
+  - enabled: 1
+    path: Assets/Scenes/prologue_for_Book2.unity
+    guid: 8a4db40704c3a4fc899c6ae64608ca23
+  - enabled: 1
+    path: Assets/Scenes/firstbook_barn.unity
+    guid: f0bf5957b3e3543efa576366472580e5
+  - enabled: 1
+    path: Assets/Scenes/firstbook_black.unity
+    guid: 46cc2797c3d92405d95df70849fea01b
+  - enabled: 1
+    path: Assets/Scenes/firstbook_cave.unity
+    guid: 3417f76b67a4b4102950a3a42ade83bc
+  - enabled: 1
+    path: Assets/Scenes/firstbook_forest.unity
+    guid: 0e4b85d023dde45c38f1363444dfad8e
+  - enabled: 1
+    path: Assets/Scenes/firstbook_forest2.unity
+    guid: 39c7c4c368622471d88a169b298530f4
+  - enabled: 1
+    path: Assets/Scenes/firstbook_grandma.unity
+    guid: e532fd5ccc6bb470ba6b8974242fcadb
+  - enabled: 1
+    path: Assets/Scenes/firstbook_village.unity
+    guid: e640b8ba4dd694c338b60ab177b617ea
+  - enabled: 1
+    path: Assets/Scenes/firstbook_village2.unity
+    guid: 03b955733197c4c2b89e65b541b692dd
+  - enabled: 1
+    path: Assets/Scenes/jack.unity
+    guid: 3fbeb944427a446d5a26f4f92932629a
+  - enabled: 1
+    path: Assets/Scenes/jack_battle_anne.unity
+    guid: c31438a296c27465da647fa8844d08ca
+  - enabled: 1
+    path: Assets/Scenes/jack_final.unity
+    guid: 7f030daa1a9b249bb8d250764aa82480
+  - enabled: 1
+    path: Assets/Scenes/jack_gao_bai.unity
+    guid: ce1d58898f0e34017aa31d0685191735
+  - enabled: 1
+    path: Assets/Scenes/jack_in_city.unity
+    guid: b81abfc44633345969b8aa6037c73f8d
+  - enabled: 1
+    path: Assets/Scenes/jack_moon_light.unity
+    guid: a9dc3d7faecac45c08d2f4f8cfa9fb32
+  - enabled: 1
+    path: Assets/Scenes/jack_pass_forest.unity
+    guid: 0122ffdd2d73a4fd0b1917af967c4599
+  m_configObjects: {}

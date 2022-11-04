@@ -1,0 +1,93 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - step
+  - portal
+  - boss_books
+  - player_tri
+  - player_pencil
+  - ControlObject
+  - movingstep
+  - torch
+  - torch_fire
+  - story_flowchart
+  - spike
+  - boss_portal
+  - within_scene_portal
+  - Apple
+  - boss_good_apple
+  - boss_bad_apple
+  - rope
+  - spear
+  - floor
+  - boss_pen
+  - light
+  - table
+  - box
+  - flashlight
+  - binding_obj
+  - FINALBLAZE
+  - boss_laser
+  - boss_cat
+  - book
+  - cash
+  - bg
+  - talkFlowchart
+  - boss_spark
+  - rod
+  - pond
+  - destination
+  - dot
+  - explosion
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - bg
+  - Player
+  - Platforms
+  - steps
+  - rope
+  - flashlight
+  - hole
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Platforms
+    uniqueID: 3712959629
+    locked: 0
+  - name: Background
+    uniqueID: 81146543
+    locked: 0
+  - name: BackgroundDetail
+    uniqueID: 2779074313
+    locked: 0
+  - name: Shadows
+    uniqueID: 663432753
+    locked: 0

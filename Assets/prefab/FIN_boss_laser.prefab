@@ -1,0 +1,51 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &3517897489951054724
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3517897489951054722}
+  - component: {fileID: 3517897489951054723}
+  m_Layer: 0
+  m_Name: FIN_boss_laser 1
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3517897489951054722
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3517897489951054724}
+  m_LocalRotation: {x: -0, y: -0, z: -0.39583173, w: 0.9183231}
+  m_LocalPosition: {x: -6.6, y: 8.8, z: -0.044748705}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: -46.636}
+--- !u!114 &3517897489951054723
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3517897489951054724}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 377a1fa709e12461db0c78791adaa133, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  laserStart: {fileID: 2548793693282351254, guid: d47c0387f48dc4c1c8bef9d036c8a709,
+    type: 3}
+  laserMiddle: {fileID: 3710063047244173368, guid: f06443f82eb8641df8adf2bbad3c3ff4,
+    type: 3}
+  laserEnd: {fileID: 3375704070304636786, guid: 73c7dd46edad44d6b91c5837971a3248,
+    type: 3}
